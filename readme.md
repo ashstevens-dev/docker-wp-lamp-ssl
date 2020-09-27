@@ -1,6 +1,6 @@
 # docker-wp-lamp-ssl
 
-Docker build for creating a local WordPress website running on a LAMP stack with SSL from Lets Encrypt. Includes a PHPMyAdmin container so you have a GUI for the database. Includes MailHog, a testing SMTP server, so you can test and debug site messaging locally.
+Docker build for creating a local WordPress website running on a LAMP stack with SSL from Lets Encrypt. Includes a PHPMyAdmin container so you have a GUI for the database. Includes MailHog, a testing SMTP server, so you can test site messaging locally.
 
 ### Getting Started
 ``` docker-compose up -d ```
